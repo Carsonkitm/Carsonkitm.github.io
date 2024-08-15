@@ -1,1 +1,5 @@
 <h1>Mongo</h1>
+<p>This mongo example project was less focused on frontend and more focused on the mongo portion. Allowing for users to create and edit different users within the project. Again unfortunately due to access being denied to the db, i am unable to show the real progress of this assignment. However i was able to pull down a few images from a previous video from this assignment</p>
+<img width="1135" alt="Screenshot 2024-08-15 at 3 07 16 PM" src="https://github.com/user-attachments/assets/8f3b8ebb-11d8-4486-952c-f465cb76ed9f">
+<p>I personally did have quite a few issues with this as I was very unfamiliar with the routes themselves and how they worked, i do not like that the MERN stack, and really all web dev feels like a black box that i cannot track. However I was able to get the routes working and provided the videos from our professor better understand how the routes work and what they have to have in order to get any data.</p>
+<img width="638" alt="Screenshot 2024-08-15 at 3 09 24 PM" src="https://github.com/user-attachments/assets/ec012777-b56d-47d1-9979-9a3d62e0471f">
