@@ -1,1 +1,1 @@
-<h2>Hangman</h2>
+<h1>Hangman</h1>
