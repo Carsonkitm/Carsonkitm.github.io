@@ -5,4 +5,4 @@
 <p>Once i begin to understand how useState could be used it was farily simple to implement. With one main function and function within each tile to handle the click, i was able to track whos turn it was and create the icon , x's and o's, for both users.</p>
 <img width="561" alt="Screenshot 2024-08-15 at 3 14 55 PM" src="https://github.com/user-attachments/assets/ee0707bb-defe-46df-9ff8-a6fa6469e563">
 <img width="607" alt="Screenshot 2024-08-15 at 3 15 18 PM" src="https://github.com/user-attachments/assets/15decff6-3796-41ec-bc95-cd5ed71ac228">
-<p>Calculating the winners was a little bit annoying because i was forced to hard code in each of the winning criteria, as you can see in the code here, around line <a href="ticTacToe/src/app.js">67</a></p>
+<p>Calculating the winners was a little bit annoying because i was forced to hard code in each of the winning criteria, as you can see in the code here, around line <a href="src/app.js">67</a></p>
