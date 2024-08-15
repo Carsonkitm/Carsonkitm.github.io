@@ -36,18 +36,6 @@
   </p>
 </div>
 
-<h3><a href="./groupProject" >Group Project</a></h3>
-<img width="475" alt="Screenshot 2024-08-15 at 12 50 01 PM" src="https://github.com/user-attachments/assets/faa31f0b-1653-4d44-8459-df2936d26bdb">
-<img width="453" alt="Screenshot 2024-08-15 at 12 49 46 PM" src="https://github.com/user-attachments/assets/b27c91b5-3734-4d64-ae02-155d0589a3f3">
-<div>
-  <p>
-    I quite enjoyed creating the hangman game. I hadnt used a ton of REACT or really much frontend development at this point. It was definetely a little bit lackluster, but creating the dynamic hangman a fun project. I did most of the frontend for this specific assignment with <a href="https://github.com/joshjosh0424">Josh</a> and <a href="https://github.com/SophiaAHeatonWeberState">Sophia</a> handling the main backend portions. As well as the username.
-  </p>
-  <p>
-    The biggest hurdle for me in this assignment was just working in the frontend. Web dev in general is not something that i'm naturally attracted to, mainly because of the frontend design decisions. Therefore i was a quite adverse to actually working on the main game functionality, until i got into it. The game logic was quite a fun portion to work on. 
-  </p>
-</div>
-
 <h3><a href="./mongo-e" >Mongo Introduction</a></h3>
 <img width="1467" alt="Screenshot 2024-08-15 at 2 10 49 PM" src="https://github.com/user-attachments/assets/3f709059-9a08-43d7-839d-fba1128f05dd">
 
@@ -57,12 +45,12 @@
   </p>
 </div>
 
-<h3><a href="./mongo-e" >Mongo Introduction</a></h3>
-<img width="1467" alt="Screenshot 2024-08-15 at 2 10 49 PM" src="https://github.com/user-attachments/assets/3f709059-9a08-43d7-839d-fba1128f05dd">
+<h3><a href="./ticTacToe" >ticTacToe</a></h3>
+<img width="233" alt="Screenshot 2024-08-15 at 2 32 44 PM" src="https://github.com/user-attachments/assets/0b0a06ac-29a0-49bd-a9b6-0ee51de0a3a5">
 
 <div>
   <p>
-    This project acted as a mongo db introduction. We used mongo and node routes to fetch different users which had different attributes such as name, position, level, etc... The main functionality was to be able to add, delete, and edit different users within the front end. Unfortunately, we deleted the mongo store, and i lost connection due to another student "owning" the db. However this is the what the frontend looked like. 
+    This project like the connect4 is mainly focused on the frontend. Again i liked to work on the frontend game logic. One of the hurdles i had was working with states as i had not been exposed to this in any other class so far.
   </p>
 </div>
 
